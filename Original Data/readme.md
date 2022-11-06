@@ -1,0 +1,2 @@
+Oryginalny plik zawiera 11 kolumn dotyczącej sondy na temat trzęsień ziemi. Niektóre z wierszy nie zawierają odpowiedzi na wszystkie pytania i w takim przypadku rekord zawiera pozycję 'NaN'. Skróciłem nazwy kolumn, tak aby nie zawierały pytań i były w czytelnej skróconej formie. Dane w pliku oryginalnym oddzielone są przecinkami, jest to domyślny separator przy wczytywaniu dataframe'u do pythona. 
+Skorzystałem z biblioteki pandas przy edycji tabel.
